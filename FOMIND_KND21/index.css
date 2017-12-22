@@ -1,0 +1,133 @@
+.body{
+  background-color: #0B173B;
+  background-size: 1920px 1080px;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.logo {
+    padding-top: 50px;
+    margin-left: 200px;
+}
+.search {
+  width: 35%;
+  margin-top: -100px;
+  margin-left:  600px;
+  position: relative;
+}
+.search input {
+  border: none;
+}
+.search .input {
+  width: 100%;
+  margin-top: 35px;
+  padding: 8px 37px 9px 15px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  box-shadow: inset 0 0 5px rgba(0,0,0,0.1), inset 0 1px 2px rgba(0,0,0,0.3);
+  opacity: 70%;
+  background: #EEE;
+  font: 13px Tahoma, Arial, sans-serif;
+  color: #555;
+  outline: none;
+  }
+.search .input:focus {
+  box-shadow: inset 0 0 5px rgba(0,0,0,0.2), inset 0 1px 2px rgba(0,0,0,0.4);
+  background: #E8E8E8;
+  color: #333;
+}
+.search .submit {
+  margin-top: 18px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 37px;
+  height: 100%;
+  cursor: pointer;
+  background: url(https://lh4.googleusercontent.com/-b-5aBxcxarY/UAfFW9lVyjI/AAAAAAAABUg/gQtEXuPuIds/s13/go.png) 50% no-repeat;
+  opacity: 0.5;
+}
+.search .submit:hover {
+  opacity: 0.8;
+}
+input[type="search"] {
+  -webkit-appearance: none;
+}
+.topfield{
+  text-align: center;
+}
+.topfield .logo {
+margin-left: -832px;
+margin-bottom: -30px;
+}
+.topfield .search{
+margin-left: 668px;
+}
+.secondfield{
+  width: 1233px;
+  height: 800px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 327px;
+}
+.secondfield .backimg .ginatext{
+  text-align: left;
+  margin-top: -400px;
+  margin-left: 100px;
+}
+.firstpic{
+  margin-left:  327px;
+  margin-top: 50px;
+
+}
+.middlefield .secondpic .textf2{
+  text-align: left;
+  margin-left: 30px;
+  margin-top: -350px;
+}
+.secondpic{
+  margin-left: 52%;
+  margin-top: -426px;
+}
+.middlefield .firstpic .textf1{
+  text-align: right;
+  margin-right: 65%; 
+  margin-top: -350px;
+}
+.
+.bottomfield {
+  width:1233px;
+  height:400px;
+  margin-top: 275px;
+}
+.bottomfield .firstimg{
+  margin-top: 275px;
+  margin-left: 327px; 
+}
+.bottomfield .secondimg{
+  margin-top: -176px;
+   margin-left: 753px; 
+}
+.bottomfield .thirdimg{
+  margin-top: -256px;
+  margin-left: 1180px; 
+}
+.bottomtext1{
+  margin-top: -250px;
+  text-align: center;
+  margin-left: -76%;
+}
+.bottomtext2{
+  margin-top: -170px;
+  text-align: center;
+  margin-left: -67%;
+    }
+.bottomtext3{
+  margin-top: -250px;
+  text-align: center;
+  margin-left: -47%;
+}
+.bottom{
+  margin-top: 200px;
+  text-align: center;
+}
